@@ -3,3 +3,5 @@
 Pointnet: Deep learning on point sets for 3d classification and segmentation </br>
 2.[PointNet++ (NIPS-2017)](https://proceedings.neurips.cc/paper_files/paper/2017/file/d8bf84be3800d12f74d8b05e9b89836f-Paper.pdf) </br>
 Pointnet++: Deep hierarchical feature learning on point sets in a metric space </br>
+3.[DGCNN (TOG-2019)](https://dl.acm.org/doi/pdf/10.1145/3326362) </br>
+Dynamic graph cnn for learning on point clouds </br>
