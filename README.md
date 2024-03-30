@@ -5,3 +5,5 @@ PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation </b
 PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space </br>
 3.[DGCNN (TOG-2019)](https://dl.acm.org/doi/pdf/10.1145/3326362) </br>
 Dynamic Graph CNN for Learning on Point Clouds </br>
+4.[PointASNL (CVPR-2020)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_PointASNL_Robust_Point_Clouds_Processing_Using_Nonlocal_Neural_Networks_With_CVPR_2020_paper.pdf)) </br>
+PointASNL: Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling </br>
