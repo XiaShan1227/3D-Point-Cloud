@@ -9,3 +9,5 @@ Dynamic Graph CNN for Learning on Point Clouds </br>
 PointASNL: Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling </br>
 5.[DGACN (TNNLS-2022)](https://www.researchgate.net/profile/Changqin-Huang/publication/359777102_Dual-Graph_Attention_Convolution_Network_for_3-D_Point_Cloud_Classification/links/62cd01743bbe636e0c56c343/Dual-Graph-Attention-Convolution-Network-for-3-D-Point-Cloud-Classification.pdf) </br>
 Dual-Graph Attention Convolution Network for 3-D Point Cloud Classification </br>
+6.[GACNet (CVPR-2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Graph_Attention_Convolution_for_Point_Cloud_Semantic_Segmentation_CVPR_2019_paper.pdf) </br>
+Graph Attention Convolution for Point Cloud Semantic Segmentation </br>
