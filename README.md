@@ -11,8 +11,10 @@ Rethinking Network Design and Local Geometry in Point Cloud: A Simple Residual M
 
 5.[DGCNN (TOG-2019)](https://dl.acm.org/doi/pdf/10.1145/3326362) </br>
 Dynamic Graph CNN for Learning on Point Clouds </br>
-6.[DGACN (TNNLS-2022)](https://www.researchgate.net/profile/Changqin-Huang/publication/359777102_Dual-Graph_Attention_Convolution_Network_for_3-D_Point_Cloud_Classification/links/62cd01743bbe636e0c56c343/Dual-Graph-Attention-Convolution-Network-for-3-D-Point-Cloud-Classification.pdf) </br>
+6.[LDGCNN (M2VIP-2021)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9665104) </br>
+Linked Dynamic Graph CNN: Learning on Point Cloud via Linking Hierarchical Features </br>
+7.[DGACN (TNNLS-2022)](https://www.researchgate.net/profile/Changqin-Huang/publication/359777102_Dual-Graph_Attention_Convolution_Network_for_3-D_Point_Cloud_Classification/links/62cd01743bbe636e0c56c343/Dual-Graph-Attention-Convolution-Network-for-3-D-Point-Cloud-Classification.pdf) </br>
 Dual-Graph Attention Convolution Network for 3-D Point Cloud Classification </br>
 
-7.[GACNet (CVPR-2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Graph_Attention_Convolution_for_Point_Cloud_Semantic_Segmentation_CVPR_2019_paper.pdf) </br>
+8.[GACNet (CVPR-2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Graph_Attention_Convolution_for_Point_Cloud_Semantic_Segmentation_CVPR_2019_paper.pdf) </br>
 Graph Attention Convolution for Point Cloud Semantic Segmentation </br>
