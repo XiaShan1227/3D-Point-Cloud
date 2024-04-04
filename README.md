@@ -20,5 +20,7 @@ DiffConv: Analyzing Irregular Point Clouds with an Irregular View </br>
 
 9.[GACNet (CVPR-2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Graph_Attention_Convolution_for_Point_Cloud_Semantic_Segmentation_CVPR_2019_paper.pdf) </br>
 Graph Attention Convolution for Point Cloud Semantic Segmentation </br>
-10.[MLGCN (2023)](https://arxiv.org/abs/2303.17748) </br>
+10.[3D-GCN (TPAMI-2021)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9355025) </br>
+Learning of 3D Graph Convolution Networks for Point Cloud Analysis </br>
+11.[MLGCN (2023)](https://arxiv.org/abs/2303.17748) </br>
 MLGCN: An Ultra Efficient Graph Convolution Neural Model For 3D Point Cloud Analysis </br>
