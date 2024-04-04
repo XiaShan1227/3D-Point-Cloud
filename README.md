@@ -27,3 +27,5 @@ MLGCN: An Ultra Efficient Graph Convolution Neural Model For 3D Point Cloud Anal
 Learning of 3D Graph Convolution Networks for Point Cloud Analysis </br>
 12.[AGConv (TPAMI-2023)](https://arxiv.org/pdf/2206.04665.pdf) </br>
 AGConv: Adaptive Graph Convolution on 3D Point Clouds </br>
+13.[SAKS (TCSVT-2023)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10091154) </br>
+SAKS: Sampling Adaptive Kernels from Subspace for Point Cloud Graph Convolution  </br>
