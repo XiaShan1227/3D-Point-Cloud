@@ -25,7 +25,10 @@ MLGCN: An Ultra Efficient Graph Convolution Neural Model For 3D Point Cloud Anal
 
 11.[3D-GCN (TPAMI-2021)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9355025) </br>
 Learning of 3D Graph Convolution Networks for Point Cloud Analysis </br>
-12.[AGConv (TPAMI-2023)](https://arxiv.org/pdf/2206.04665.pdf) </br>
+
+12.[KPConv (ICCV-2019)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Thomas_KPConv_Flexible_and_Deformable_Convolution_for_Point_Clouds_ICCV_2019_paper.pdf) </br>
+KPConv: Flexible and Deformable Convolution for Point Clouds </br>
+13.[AGConv (TPAMI-2023)](https://arxiv.org/pdf/2206.04665.pdf) </br>
 AGConv: Adaptive Graph Convolution on 3D Point Clouds </br>
-13.[SAKS (TCSVT-2023)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10091154) </br>
+14.[SAKS (TCSVT-2023)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10091154) </br>
 SAKS: Sampling Adaptive Kernels from Subspace for Point Cloud Graph Convolution  </br>
