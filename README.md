@@ -33,6 +33,8 @@ Learning of 3D Graph Convolution Networks for Point Cloud Analysis </br>
 
 14.[KPConv (ICCV-2019)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Thomas_KPConv_Flexible_and_Deformable_Convolution_for_Point_Clouds_ICCV_2019_paper.pdf) </br>
 KPConv: Flexible and Deformable Convolution for Point Clouds </br>
+15.[PAConv (CVPR-2021)](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_PAConv_Position_Adaptive_Convolution_With_Dynamic_Kernel_Assembling_on_Point_CVPR_2021_paper.pdf) </br>
+PAConv: Position Adaptive Convolution with Dynamic Kernel Assembling on Point Clouds </br>
 15.[AGConv (TPAMI-2023)](https://arxiv.org/pdf/2206.04665.pdf) </br>
 AGConv: Adaptive Graph Convolution on 3D Point Clouds </br>
 16.[SAKS (TCSVT-2023)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10091154) </br>
