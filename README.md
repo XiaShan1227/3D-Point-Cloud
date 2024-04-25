@@ -18,24 +18,26 @@ PointWavelet: Learning in Spectral Domain for 3D Point Cloud Analysis </br>
 Dynamic Graph CNN for Learning on Point Clouds </br>
 8.[LDGCNN (M2VIP-2021)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9665104) </br>
 Linked Dynamic Graph CNN: Learning on Point Cloud via Linking Hierarchical Features </br>
-9.[DGACN (TNNLS-2022)](https://www.researchgate.net/profile/Changqin-Huang/publication/359777102_Dual-Graph_Attention_Convolution_Network_for_3-D_Point_Cloud_Classification/links/62cd01743bbe636e0c56c343/Dual-Graph-Attention-Convolution-Network-for-3-D-Point-Cloud-Classification.pdf) </br>
+9.[GeomGCNN (ICRA-2021)](https://arxiv.org/pdf/2103.15226.pdf) </br>
+Exploiting Local Geometry for Feature and Graph Construction for Better 3D Point Cloud Processing with Graph Neural Networks </br>
+10.[DGACN (TNNLS-2022)](https://www.researchgate.net/profile/Changqin-Huang/publication/359777102_Dual-Graph_Attention_Convolution_Network_for_3-D_Point_Cloud_Classification/links/62cd01743bbe636e0c56c343/Dual-Graph-Attention-Convolution-Network-for-3-D-Point-Cloud-Classification.pdf) </br>
 Dual-Graph Attention Convolution Network for 3-D Point Cloud Classification </br>
-10.[DiffConv (ECCV-2022)](https://arxiv.org/pdf/2111.14658.pdf) </br>
+11.[DiffConv (ECCV-2022)](https://arxiv.org/pdf/2111.14658.pdf) </br>
 DiffConv: Analyzing Irregular Point Clouds with an Irregular View </br>
 
-11.[GACNet (CVPR-2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Graph_Attention_Convolution_for_Point_Cloud_Semantic_Segmentation_CVPR_2019_paper.pdf) </br>
+12.[GACNet (CVPR-2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Graph_Attention_Convolution_for_Point_Cloud_Semantic_Segmentation_CVPR_2019_paper.pdf) </br>
 Graph Attention Convolution for Point Cloud Semantic Segmentation </br>
-12.[MLGCN (2023)](https://arxiv.org/abs/2303.17748) </br>
+13.[MLGCN (2023)](https://arxiv.org/abs/2303.17748) </br>
 MLGCN: An Ultra Efficient Graph Convolution Neural Model For 3D Point Cloud Analysis </br>
 
-13.[3D-GCN (TPAMI-2021)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9355025) </br>
+14.[3D-GCN (TPAMI-2021)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9355025) </br>
 Learning of 3D Graph Convolution Networks for Point Cloud Analysis </br>
 
-14.[KPConv (ICCV-2019)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Thomas_KPConv_Flexible_and_Deformable_Convolution_for_Point_Clouds_ICCV_2019_paper.pdf) </br>
+15.[KPConv (ICCV-2019)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Thomas_KPConv_Flexible_and_Deformable_Convolution_for_Point_Clouds_ICCV_2019_paper.pdf) </br>
 KPConv: Flexible and Deformable Convolution for Point Clouds </br>
-15.[PAConv (CVPR-2021)](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_PAConv_Position_Adaptive_Convolution_With_Dynamic_Kernel_Assembling_on_Point_CVPR_2021_paper.pdf) </br>
+16.[PAConv (CVPR-2021)](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_PAConv_Position_Adaptive_Convolution_With_Dynamic_Kernel_Assembling_on_Point_CVPR_2021_paper.pdf) </br>
 PAConv: Position Adaptive Convolution with Dynamic Kernel Assembling on Point Clouds </br>
-16.[AGConv (TPAMI-2023)](https://arxiv.org/pdf/2206.04665.pdf) </br>
+17.[AGConv (TPAMI-2023)](https://arxiv.org/pdf/2206.04665.pdf) </br>
 AGConv: Adaptive Graph Convolution on 3D Point Clouds </br>
-17.[SAKS (TCSVT-2023)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10091154) </br>
+18.[SAKS (TCSVT-2023)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10091154) </br>
 SAKS: Sampling Adaptive Kernels from Subspace for Point Cloud Graph Convolution  </br>
