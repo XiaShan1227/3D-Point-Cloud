@@ -46,3 +46,10 @@ PAConv: Position Adaptive Convolution with Dynamic Kernel Assembling on Point Cl
 AGConv: Adaptive Graph Convolution on 3D Point Clouds </br>
 20.[SAKS (TCSVT-2023)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10091154) </br>
 SAKS: Sampling Adaptive Kernels from Subspace for Point Cloud Graph Convolution  </br>
+
+21.[PCT (CVM-2021)](https://link.springer.com/content/pdf/10.1007/s41095-021-0229-5.pdf) </br>
+PCT: Point Cloud Transformer  </br>
+22.[Point Transformer (ICCV-2021)](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Point_Transformer_ICCV_2021_paper.pdf) </br>
+Point Transformer  </br>
+23.[Point Transformer (IEEE Access-2021)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9552005) </br>
+Point Transformer  </br>
