@@ -30,17 +30,19 @@ DiffConv: Analyzing Irregular Point Clouds with an Irregular View </br>
 
 13.[GACNet (CVPR-2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Graph_Attention_Convolution_for_Point_Cloud_Semantic_Segmentation_CVPR_2019_paper.pdf) </br>
 Graph Attention Convolution for Point Cloud Semantic Segmentation </br>
-14.[MLGCN (2023)](https://arxiv.org/abs/2303.17748) </br>
+14.[FGCN (CVPR-2020)](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w11/Khan_FGCN_Deep_Feature-Based_Graph_Convolutional_Network_for_Semantic_Segmentation_of_CVPRW_2020_paper.pdf) </br>
+FGCN: Deep Feature-based Graph Convolutional Network for Semantic Segmentation of Urban 3D Point Clouds</br>
+15.[MLGCN (2023)](https://arxiv.org/abs/2303.17748) </br>
 MLGCN: An Ultra Efficient Graph Convolution Neural Model For 3D Point Cloud Analysis </br>
 
-15.[3D-GCN (TPAMI-2021)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9355025) </br>
+16.[3D-GCN (TPAMI-2021)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9355025) </br>
 Learning of 3D Graph Convolution Networks for Point Cloud Analysis </br>
 
-16.[KPConv (ICCV-2019)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Thomas_KPConv_Flexible_and_Deformable_Convolution_for_Point_Clouds_ICCV_2019_paper.pdf) </br>
+17.[KPConv (ICCV-2019)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Thomas_KPConv_Flexible_and_Deformable_Convolution_for_Point_Clouds_ICCV_2019_paper.pdf) </br>
 KPConv: Flexible and Deformable Convolution for Point Clouds </br>
-17.[PAConv (CVPR-2021)](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_PAConv_Position_Adaptive_Convolution_With_Dynamic_Kernel_Assembling_on_Point_CVPR_2021_paper.pdf) </br>
+18.[PAConv (CVPR-2021)](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_PAConv_Position_Adaptive_Convolution_With_Dynamic_Kernel_Assembling_on_Point_CVPR_2021_paper.pdf) </br>
 PAConv: Position Adaptive Convolution with Dynamic Kernel Assembling on Point Clouds </br>
-18.[AGConv (TPAMI-2023)](https://arxiv.org/pdf/2206.04665.pdf) </br>
+19.[AGConv (TPAMI-2023)](https://arxiv.org/pdf/2206.04665.pdf) </br>
 AGConv: Adaptive Graph Convolution on 3D Point Clouds </br>
-19.[SAKS (TCSVT-2023)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10091154) </br>
+20.[SAKS (TCSVT-2023)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10091154) </br>
 SAKS: Sampling Adaptive Kernels from Subspace for Point Cloud Graph Convolution  </br>
