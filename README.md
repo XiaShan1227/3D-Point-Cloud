@@ -53,3 +53,5 @@ PCT: Point Cloud Transformer  </br>
 Point Transformer  </br>
 23.[Point Transformer (IEEE Access-2021)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9552005) </br>
 Point Transformer  </br>
+24.[GTNet (2023)](https://arxiv.org/pdf/2305.15213) </br>
+GTNet: Graph Transformer Network for 3D Point Cloud Classification and Semantic Segmentation </br>
