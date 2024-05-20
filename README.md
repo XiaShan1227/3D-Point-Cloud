@@ -55,3 +55,5 @@ Point Transformer  </br>
 Point Transformer  </br>
 24.[GTNet (2023)](https://arxiv.org/pdf/2305.15213) </br>
 GTNet: Graph Transformer Network for 3D Point Cloud Classification and Semantic Segmentation </br>
+25.[PointCT (WACV-2024)](https://openaccess.thecvf.com/content/WACV2024/papers/Tran_PointCT_Point_Central_Transformer_Network_for_Weakly-Supervised_Point_Cloud_Semantic_WACV_2024_paper.pdf) </br>
+PointCT: Point Central Transformer Network for Weakly-supervised Point Cloud Semantic Segmentation  </br>
