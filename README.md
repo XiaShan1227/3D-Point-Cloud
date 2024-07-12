@@ -3,7 +3,7 @@
 PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation </br>
 2.[PointNet++ (NIPS-2017)](https://proceedings.neurips.cc/paper_files/paper/2017/file/d8bf84be3800d12f74d8b05e9b89836f-Paper.pdf) </br>
 PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space </br>
-3.[PointASNL (CVPR-2020)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_PointASNL_Robust_Point_Clouds_Processing_Using_Nonlocal_Neural_Networks_With_CVPR_2020_paper.pdf) </br>
+3.[PointASNL (CVPR-2020) (Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_PointASNL_Robust_Point_Clouds_Processing_Using_Nonlocal_Neural_Networks_With_CVPR_2020_paper.pdf) </br>
 PointASNL: Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling </br>
 4.[APES (CVPR-2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Attention-Based_Point_Cloud_Edge_Sampling_CVPR_2023_paper.pdf) </br>
 Attention-Based Point Cloud Edge Sampling </br>
