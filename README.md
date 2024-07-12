@@ -6,7 +6,7 @@ PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space <
 3.[PointASNL (CVPR-2020) (Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_PointASNL_Robust_Point_Clouds_Processing_Using_Nonlocal_Neural_Networks_With_CVPR_2020_paper.pdf) </br>
 PointASNL: Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling </br>
 4.[APES (CVPR-2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Attention-Based_Point_Cloud_Edge_Sampling_CVPR_2023_paper.pdf) </br>
-Attention-Based Point Cloud Edge Sampling </br>
+Attention-Based Point Cloud Edge Sampling [[Code]](https://github.com/JunweiZheng93/APES) </br>
 
 5.[PointMLP (ICLR-2022)](https://arxiv.org/pdf/2202.07123.pdf) </br>
 Rethinking Network Design and Local Geometry in Point Cloud: A Simple Residual MLP Framework </br>
@@ -79,7 +79,7 @@ Adaptive Hierarchical Down-Sampling for Point Cloud Classification </br>
 35.[(ICCV-2021) (Proceedings of the IEEE/CVF International Conference on Computer Vision)](https://openaccess.thecvf.com/content/ICCV2021W/DLGC/papers/Tailor_Towards_Efficient_Point_Cloud_Graph_Neural_Networks_Through_Architectural_Simplification_ICCVW_2021_paper.pdf) </br>
 Towards Efficient Point Cloud Graph Neural Networks Through Architectural Simplification  </br>
 36.[BubblEX (JSTARS-2022) (IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing)](https://ieeexplore.ieee.org/abstract/document/9846966) </br>
-BubblEX: An Explainable Deep Learning Framework for Point-Cloud Classification  </br>
+BubblEX: An Explainable Deep Learning Framework for Point-Cloud Classification [[Code]](https://github.com/vrai-group/BubblEX) </br>
 
 37.[A Survey (TPAMI-2020) (IEEE Transactions on Pattern Analysis and Machine Intelligence)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10508408) </br>
 Deep Learning for 3D Point Clouds: A Survey </br>
