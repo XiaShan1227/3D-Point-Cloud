@@ -59,6 +59,8 @@ Point Transformer  </br>
 Point Transformer  </br>
 26.[Stratified Transformer (CVPR-2022)](https://openaccess.thecvf.com/content/CVPR2022/papers/Lai_Stratified_Transformer_for_3D_Point_Cloud_Segmentation_CVPR_2022_paper.pdf) </br>
 Stratified Transformer for 3D Point Cloud Segmentation </br>
+24.[3DCTN (TITS-2022)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9861747) </br>
+3DCTN: 3D Convolution-Transformer Network for Point Cloud Classification  </br>
 27.[SPoTr (CVPR-2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Park_Self-Positioning_Point-Based_Transformer_for_Point_Cloud_Understanding_CVPR_2023_paper.pdf) </br>
 Self-positioning Point-based Transformer for Point Cloud Understanding </br>
 28.[GTNet (2023)](https://arxiv.org/pdf/2305.15213) </br>
@@ -67,6 +69,8 @@ GTNet: Graph Transformer Network for 3D Point Cloud Classification and Semantic 
 Improving Graph Representation for Point Cloud Segmentation via Attentive Filtering </br>
 30.[PointCT (WACV-2024)](https://openaccess.thecvf.com/content/WACV2024/papers/Tran_PointCT_Point_Central_Transformer_Network_for_Weakly-Supervised_Point_Cloud_Semantic_WACV_2024_paper.pdf) </br>
 PointCT: Point Central Transformer Network for Weakly-supervised Point Cloud Semantic Segmentation  </br>
+24.[3DGTN (IEEE Transactions on Geoscience and Remote Sensing[TGRS]-2024)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10508408) </br>
+3DGTN: 3-D Dual-Attention GLocal Transformer Network for Point Cloud Classification and Segmentation </br>
 
 31.[(ICCV-2021)](https://openaccess.thecvf.com/content/ICCV2021W/DLGC/papers/Tailor_Towards_Efficient_Point_Cloud_Graph_Neural_Networks_Through_Architectural_Simplification_ICCVW_2021_paper.pdf) </br>
 Towards Efficient Point Cloud Graph Neural Networks Through Architectural Simplification  </br>
