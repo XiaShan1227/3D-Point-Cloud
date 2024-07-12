@@ -36,6 +36,8 @@ FGCN: Deep Feature-based Graph Convolutional Network for Semantic Segmentation o
 GAPointNet: Graph Attention Based Point Neural Network for Exploiting Local Feature of Point Cloud </br>
 16.[MLGCN (2023)](https://arxiv.org/abs/2303.17748) </br>
 MLGCN: An Ultra Efficient Graph Convolution Neural Model For 3D Point Cloud Analysis </br>
+17.[GSLCN (TPAMI-2023)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10193837) </br>
+Long and Short-Range Dependency Graph Structure Learning Framework on Point Cloud </br>
 
 17.[3D-GCN (TPAMI-2021)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9355025) </br>
 Learning of 3D Graph Convolution Networks for Point Cloud Analysis </br>
