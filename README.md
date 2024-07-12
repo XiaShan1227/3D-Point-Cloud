@@ -74,7 +74,7 @@ PointCT: Point Central Transformer Network for Weakly-supervised Point Cloud Sem
 33.[3DGTN (TGRS-2024) (IEEE Transactions on Geoscience and Remote Sensing)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10508408) </br>
 3DGTN: 3-D Dual-Attention GLocal Transformer Network for Point Cloud Classification and Segmentation [[Code]](https://github.com/d62lu/3DGTN) </br>
 
-34.[(ICCV-2021)](https://openaccess.thecvf.com/content/ICCV2021W/DLGC/papers/Tailor_Towards_Efficient_Point_Cloud_Graph_Neural_Networks_Through_Architectural_Simplification_ICCVW_2021_paper.pdf) </br>
+34.[(ICCV-2021) (Proceedings of the IEEE/CVF International Conference on Computer Vision)](https://openaccess.thecvf.com/content/ICCV2021W/DLGC/papers/Tailor_Towards_Efficient_Point_Cloud_Graph_Neural_Networks_Through_Architectural_Simplification_ICCVW_2021_paper.pdf) </br>
 Towards Efficient Point Cloud Graph Neural Networks Through Architectural Simplification  </br>
 
 35.[A Survey (TPAMI-2020) (IEEE Transactions on Pattern Analysis and Machine Intelligence)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10508408) </br>
