@@ -39,7 +39,7 @@ MLGCN: An Ultra Efficient Graph Convolution Neural Model For 3D Point Cloud Anal
 17.[GSLCN (TPAMI-2023)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10193837) </br>
 Long and Short-Range Dependency Graph Structure Learning Framework on Point Cloud </br>
 
-18.[3D-GCN (TPAMI-2021)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9355025) </br>
+18.[3D-GCN (TPAMI-2021) (IEEE Transactions on Pattern Analysis and Machine Intelligence)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9355025) </br>
 Learning of 3D Graph Convolution Networks for Point Cloud Analysis </br>
 
 19.[KPConv (ICCV-2019)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Thomas_KPConv_Flexible_and_Deformable_Convolution_for_Point_Clouds_ICCV_2019_paper.pdf) </br>
