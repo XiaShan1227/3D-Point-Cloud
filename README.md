@@ -1,9 +1,9 @@
 ### 3D-Point-Cloud
-1.[PointNet (CVPR-2017)](https://openaccess.thecvf.com/content_cvpr_2017/papers/Qi_PointNet_Deep_Learning_CVPR_2017_paper.pdf) </br>
+1.[PointNet (CVPR-2017) (Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition)](https://openaccess.thecvf.com/content_cvpr_2017/papers/Qi_PointNet_Deep_Learning_CVPR_2017_paper.pdf) </br>
 PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation </br>
 2.[PointNet++ (NIPS-2017)](https://proceedings.neurips.cc/paper_files/paper/2017/file/d8bf84be3800d12f74d8b05e9b89836f-Paper.pdf) </br>
 PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space </br>
-3.[PointASNL (CVPR-2020) (Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_PointASNL_Robust_Point_Clouds_Processing_Using_Nonlocal_Neural_Networks_With_CVPR_2020_paper.pdf) </br>
+3.[PointASNL (CVPR-2020)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_PointASNL_Robust_Point_Clouds_Processing_Using_Nonlocal_Neural_Networks_With_CVPR_2020_paper.pdf) </br>
 PointASNL: Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling </br>
 4.[APES (CVPR-2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Attention-Based_Point_Cloud_Edge_Sampling_CVPR_2023_paper.pdf) </br>
 Attention-Based Point Cloud Edge Sampling [[Code]](https://github.com/JunweiZheng93/APES) </br>
@@ -74,14 +74,14 @@ PointCT: Point Central Transformer Network for Weakly-supervised Point Cloud Sem
 33.[3DGTN (TGRS-2024) (IEEE Transactions on Geoscience and Remote Sensing)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10508408) </br>
 3DGTN: 3-D Dual-Attention GLocal Transformer Network for Point Cloud Classification and Segmentation [[Code]](https://github.com/d62lu/3DGTN) </br>
 
-34.[CP-Net (CVPR-2020) (Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Nezhadarya_Adaptive_Hierarchical_Down-Sampling_for_Point_Cloud_Classification_CVPR_2020_paper.pdf) </br>
+34.[CP-Net (CVPR-2020)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Nezhadarya_Adaptive_Hierarchical_Down-Sampling_for_Point_Cloud_Classification_CVPR_2020_paper.pdf) </br>
 Adaptive Hierarchical Down-Sampling for Point Cloud Classification </br>
 35.[(ICCV-2021) (Proceedings of the IEEE/CVF International Conference on Computer Vision)](https://openaccess.thecvf.com/content/ICCV2021W/DLGC/papers/Tailor_Towards_Efficient_Point_Cloud_Graph_Neural_Networks_Through_Architectural_Simplification_ICCVW_2021_paper.pdf) </br>
 Towards Efficient Point Cloud Graph Neural Networks Through Architectural Simplification  </br>
 36.[BubblEX (JSTARS-2022) (IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing)](https://ieeexplore.ieee.org/abstract/document/9846966) </br>
 BubblEX: An Explainable Deep Learning Framework for Point-Cloud Classification [[Code]](https://github.com/vrai-group/BubblEX) </br>
 
-37.[A Survey (TPAMI-2020) (IEEE Transactions on Pattern Analysis and Machine Intelligence)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10508408) </br>
+37.[A Survey (TPAMI-2020)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10508408) </br>
 Deep Learning for 3D Point Clouds: A Survey </br>
 38.[A Systematic Survey and Outlook (Displays-2023)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10508408) </br>
 Deep Learning-based 3D Point Cloud Classification: A Systematic Survey and Outlook </br>
