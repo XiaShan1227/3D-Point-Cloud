@@ -59,8 +59,8 @@ Point Transformer  </br>
 Point Transformer  </br>
 26.[Stratified Transformer (CVPR-2022)](https://openaccess.thecvf.com/content/CVPR2022/papers/Lai_Stratified_Transformer_for_3D_Point_Cloud_Segmentation_CVPR_2022_paper.pdf) </br>
 Stratified Transformer for 3D Point Cloud Segmentation </br>
-24.[3DCTN (TITS-2022)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9861747) </br>
-3DCTN: 3D Convolution-Transformer Network for Point Cloud Classification  </br>
+24.[3DCTN (TITS-2022) (IEEE Transactions on Intelligent Transportation Systems)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9861747) </br>
+3DCTN: 3D Convolution-Transformer Network for Point Cloud Classification  [[Code]](https://github.com/d62lu/3DCTN)</br>
 27.[SPoTr (CVPR-2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Park_Self-Positioning_Point-Based_Transformer_for_Point_Cloud_Understanding_CVPR_2023_paper.pdf) </br>
 Self-positioning Point-based Transformer for Point Cloud Understanding </br>
 28.[GTNet (2023)](https://arxiv.org/pdf/2305.15213) </br>
