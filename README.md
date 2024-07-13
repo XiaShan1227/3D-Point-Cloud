@@ -23,11 +23,15 @@ Dynamic Graph CNN for Learning on Point Clouds </br>
 Linked Dynamic Graph CNN: Learning on Point Cloud via Linking Hierarchical Features </br>
 10.[GeomGCNN (ICRA-2021)](https://arxiv.org/pdf/2103.15226.pdf) </br>
 Exploiting Local Geometry for Feature and Graph Construction for Better 3D Point Cloud Processing with Graph Neural Networks </br>
+10.[DC-GNN (IJMIR-2022) (International Journal of Multimedia Information Retrieval)](https://link.springer.com/article/10.1007/s13735-022-00236-7) </br>
+DC-GNN: Drop Channel Graph Neural Network for Object Classification and Part Segmentation in the Point Cloud [[Code]](https://github.com/merazlab/DC-GNN) </br>
 11.[DGACN (TNNLS-2022)](https://www.researchgate.net/profile/Changqin-Huang/publication/359777102_Dual-Graph_Attention_Convolution_Network_for_3-D_Point_Cloud_Classification/links/62cd01743bbe636e0c56c343/Dual-Graph-Attention-Convolution-Network-for-3-D-Point-Cloud-Classification.pdf) </br>
 Dual-Graph Attention Convolution Network for 3-D Point Cloud Classification </br>
 12.[DiffConv (ECCV-2022)](https://arxiv.org/pdf/2111.14658.pdf) </br>
 DiffConv: Analyzing Irregular Point Clouds with an Irregular View </br>
 
+12.[DeepGCNs (ICCV-2019) (Proceedings of the IEEE/CVF International Conference on Computer Vision)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_DeepGCNs_Can_GCNs_Go_As_Deep_As_CNNs_ICCV_2019_paper.pdf) </br>
+DeepGCNs: Can GCNs Go as Deep as CNNs? [[Code]](https://github.com/lightaime/deep_gcns_torch?tab=readme-ov-file) </br>
 13.[GACNet (CVPR-2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Graph_Attention_Convolution_for_Point_Cloud_Semantic_Segmentation_CVPR_2019_paper.pdf) </br>
 Graph Attention Convolution for Point Cloud Semantic Segmentation </br>
 14.[FGCN (CVPR-2020)](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w11/Khan_FGCN_Deep_Feature-Based_Graph_Convolutional_Network_for_Semantic_Segmentation_of_CVPRW_2020_paper.pdf) </br>
@@ -62,7 +66,7 @@ Stratified Transformer for 3D Point Cloud Segmentation </br>
 27.[AGNet (Remote Sensing-2022)](https://www.mdpi.com/2072-4292/14/4/1036) </br>
 AGNet: An Attention-Based Graph Network for Point Cloud Classification and Segmentation  </br>
 28.[3DCTN (TITS-2022) (IEEE Transactions on Intelligent Transportation Systems)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9861747) </br>
-3DCTN: 3D Convolution-Transformer Network for Point Cloud Classification  [[Code]](https://github.com/d62lu/3DCTN)</br>
+3DCTN: 3D Convolution-Transformer Network for Point Cloud Classification  [[Code]](https://github.com/d62lu/3DCTN) </br>
 29.[SPoTr (CVPR-2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Park_Self-Positioning_Point-Based_Transformer_for_Point_Cloud_Understanding_CVPR_2023_paper.pdf) </br>
 Self-positioning Point-based Transformer for Point Cloud Understanding </br>
 30.[GTNet (2023)](https://arxiv.org/pdf/2305.15213) </br>
@@ -76,7 +80,7 @@ PointCT: Point Central Transformer Network for Weakly-supervised Point Cloud Sem
 
 34.[CP-Net (CVPR-2020)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Nezhadarya_Adaptive_Hierarchical_Down-Sampling_for_Point_Cloud_Classification_CVPR_2020_paper.pdf) </br>
 Adaptive Hierarchical Down-Sampling for Point Cloud Classification </br>
-35.[(ICCV-2021) (Proceedings of the IEEE/CVF International Conference on Computer Vision)](https://openaccess.thecvf.com/content/ICCV2021W/DLGC/papers/Tailor_Towards_Efficient_Point_Cloud_Graph_Neural_Networks_Through_Architectural_Simplification_ICCVW_2021_paper.pdf) </br>
+35.[(ICCV-2021)](https://openaccess.thecvf.com/content/ICCV2021W/DLGC/papers/Tailor_Towards_Efficient_Point_Cloud_Graph_Neural_Networks_Through_Architectural_Simplification_ICCVW_2021_paper.pdf) </br>
 Towards Efficient Point Cloud Graph Neural Networks Through Architectural Simplification  </br>
 36.[BubblEX (JSTARS-2022) (IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing)](https://ieeexplore.ieee.org/abstract/document/9846966) </br>
 BubblEX: An Explainable Deep Learning Framework for Point-Cloud Classification [[Code]](https://github.com/vrai-group/BubblEX) </br>
