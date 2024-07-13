@@ -19,8 +19,8 @@ PointWavelet: Learning in Spectral Domain for 3D Point Cloud Analysis </br>
 
 8.[DGCNN (TOG-2019) (ACM Transactions on Graphics)](https://dl.acm.org/doi/pdf/10.1145/3326362) </br>
 Dynamic Graph CNN for Learning on Point Clouds [[Code]](https://github.com/WangYueFt/dgcnn?tab=readme-ov-file) </br>
-9.[LDGCNN (M2VIP-2021)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9665104) </br>
-Linked Dynamic Graph CNN: Learning on Point Cloud via Linking Hierarchical Features </br>
+9.[LDGCNN (M2VIP-2021) (International Conference on Mechatronics and Machine Vision in Practice)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9665104) </br>
+Linked Dynamic Graph CNN: Learning on Point Cloud via Linking Hierarchical Features [[Code]](https://github.com/KuangenZhang/ldgcnn) </br>
 10.[GeomGCNN (ICRA-2021) (IEEE International Conference on Robotics and Automation)](https://ieeexplore.ieee.org/abstract/document/9561327) </br>
 Exploiting Local Geometry for Feature and Graph Construction for Better 3D Point Cloud Processing with Graph Neural Networks </br>
 11.[DC-GNN (IJMIR-2022) (International Journal of Multimedia Information Retrieval)](https://link.springer.com/article/10.1007/s13735-022-00236-7) </br>
@@ -47,7 +47,7 @@ Long and Short-Range Dependency Graph Structure Learning Framework on Point Clou
 Learning of 3D Graph Convolution Networks for Point Cloud Analysis </br>
 
 21.[KPConv (ICCV-2019)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Thomas_KPConv_Flexible_and_Deformable_Convolution_for_Point_Clouds_ICCV_2019_paper.pdf) </br>
-KPConv: Flexible and Deformable Convolution for Point Clouds </br>
+KPConv: Flexible and Deformable Convolution for Point Clouds [[Code]](https://github.com/HuguesTHOMAS/KPConv) </br>
 22.[PAConv (CVPR-2021)](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_PAConv_Position_Adaptive_Convolution_With_Dynamic_Kernel_Assembling_on_Point_CVPR_2021_paper.pdf) </br>
 PAConv: Position Adaptive Convolution with Dynamic Kernel Assembling on Point Clouds </br>
 23.[AGConv (TPAMI-2023)](https://arxiv.org/pdf/2206.04665.pdf) </br>
@@ -86,8 +86,10 @@ Geometric Back-projection Network for Point Cloud Classification [[Code]](https:
 Towards Efficient Point Cloud Graph Neural Networks Through Architectural Simplification  </br>
 39.[BubblEX (JSTARS-2022) (IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing)](https://ieeexplore.ieee.org/abstract/document/9846966) </br>
 BubblEX: An Explainable Deep Learning Framework for Point-Cloud Classification [[Code]](https://github.com/vrai-group/BubblEX) </br>
+40.[GrowSP (CVPR-2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_GrowSP_Unsupervised_Semantic_Segmentation_of_3D_Point_Clouds_CVPR_2023_paper.pdf) </br>
+GrowSP: Unsupervised Semantic Segmentation of 3D Point Clouds [[Code]](https://github.com/vLAR-group/GrowSP) </br>
 
-40.[A Survey (TPAMI-2020)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10508408) </br>
+41.[A Survey (TPAMI-2020)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10508408) </br>
 Deep Learning for 3D Point Clouds: A Survey </br>
-41.[A Systematic Survey and Outlook (Displays-2023)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10508408) </br>
+42.[A Systematic Survey and Outlook (Displays-2023)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10508408) </br>
 Deep Learning-based 3D Point Cloud Classification: A Systematic Survey and Outlook </br>
