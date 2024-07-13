@@ -17,75 +17,77 @@ PointGS: Bridging and Fusing Geometric and Semantic Space for 3D Point Cloud Ana
 7.[PointWavelet (TNNLS-2024)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10444053) </br>
 PointWavelet: Learning in Spectral Domain for 3D Point Cloud Analysis </br>
 
-8.[DGCNN (TOG-2019)](https://dl.acm.org/doi/pdf/10.1145/3326362) </br>
-Dynamic Graph CNN for Learning on Point Clouds </br>
+8.[DGCNN (TOG-2019) (ACM Transactions on Graphics)](https://dl.acm.org/doi/pdf/10.1145/3326362) </br>
+Dynamic Graph CNN for Learning on Point Clouds [[Code]](https://github.com/WangYueFt/dgcnn?tab=readme-ov-file) </br>
 9.[LDGCNN (M2VIP-2021)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9665104) </br>
 Linked Dynamic Graph CNN: Learning on Point Cloud via Linking Hierarchical Features </br>
-10.[GeomGCNN (ICRA-2021)](https://arxiv.org/pdf/2103.15226.pdf) </br>
+10.[GeomGCNN (ICRA-2021) (IEEE International Conference on Robotics and Automation)](https://ieeexplore.ieee.org/abstract/document/9561327) </br>
 Exploiting Local Geometry for Feature and Graph Construction for Better 3D Point Cloud Processing with Graph Neural Networks </br>
-10.[DC-GNN (IJMIR-2022) (International Journal of Multimedia Information Retrieval)](https://link.springer.com/article/10.1007/s13735-022-00236-7) </br>
+11.[DC-GNN (IJMIR-2022) (International Journal of Multimedia Information Retrieval)](https://link.springer.com/article/10.1007/s13735-022-00236-7) </br>
 DC-GNN: Drop Channel Graph Neural Network for Object Classification and Part Segmentation in the Point Cloud [[Code]](https://github.com/merazlab/DC-GNN) </br>
-11.[DGACN (TNNLS-2022)](https://www.researchgate.net/profile/Changqin-Huang/publication/359777102_Dual-Graph_Attention_Convolution_Network_for_3-D_Point_Cloud_Classification/links/62cd01743bbe636e0c56c343/Dual-Graph-Attention-Convolution-Network-for-3-D-Point-Cloud-Classification.pdf) </br>
+12.[DGACN (TNNLS-2022) (IEEE Transactions on Neural Networks and Learning Systems)](https://www.researchgate.net/profile/Changqin-Huang/publication/359777102_Dual-Graph_Attention_Convolution_Network_for_3-D_Point_Cloud_Classification/links/62cd01743bbe636e0c56c343/Dual-Graph-Attention-Convolution-Network-for-3-D-Point-Cloud-Classification.pdf) </br>
 Dual-Graph Attention Convolution Network for 3-D Point Cloud Classification </br>
-12.[DiffConv (ECCV-2022)](https://arxiv.org/pdf/2111.14658.pdf) </br>
-DiffConv: Analyzing Irregular Point Clouds with an Irregular View </br>
+13.[DiffConv (ECCV-2022) (European Conference on Computer Vision)](https://link.springer.com/chapter/10.1007/978-3-031-20062-5_22) </br>
+DiffConv: Analyzing Irregular Point Clouds with an Irregular View [[Code]](https://github.com/mmmmimic/diffConvNet) </br>
 
-12.[DeepGCNs (ICCV-2019) (Proceedings of the IEEE/CVF International Conference on Computer Vision)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_DeepGCNs_Can_GCNs_Go_As_Deep_As_CNNs_ICCV_2019_paper.pdf) </br>
+14.[DeepGCNs (ICCV-2019) (Proceedings of the IEEE/CVF International Conference on Computer Vision)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_DeepGCNs_Can_GCNs_Go_As_Deep_As_CNNs_ICCV_2019_paper.pdf) </br>
 DeepGCNs: Can GCNs Go as Deep as CNNs? [[Code]](https://github.com/lightaime/deep_gcns_torch?tab=readme-ov-file) </br>
-13.[GACNet (CVPR-2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Graph_Attention_Convolution_for_Point_Cloud_Semantic_Segmentation_CVPR_2019_paper.pdf) </br>
-Graph Attention Convolution for Point Cloud Semantic Segmentation </br>
-14.[FGCN (CVPR-2020)](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w11/Khan_FGCN_Deep_Feature-Based_Graph_Convolutional_Network_for_Semantic_Segmentation_of_CVPRW_2020_paper.pdf) </br>
+15.[GACNet (CVPR-2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Graph_Attention_Convolution_for_Point_Cloud_Semantic_Segmentation_CVPR_2019_paper.pdf) </br>
+Graph Attention Convolution for Point Cloud Semantic Segmentation [[Code]](https://github.com/yanx27/GACNet) </br>
+16.[FGCN (CVPR-2020)](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w11/Khan_FGCN_Deep_Feature-Based_Graph_Convolutional_Network_for_Semantic_Segmentation_of_CVPRW_2020_paper.pdf) </br>
 FGCN: Deep Feature-based Graph Convolutional Network for Semantic Segmentation of Urban 3D Point Clouds</br>
-15.[GAPointNet (Neurocomputing-2021)](https://www.sciencedirect.com/science/article/abs/pii/S0925231221001776) </br>
+17.[GAPointNet (Neurocomputing-2021)](https://www.sciencedirect.com/science/article/abs/pii/S0925231221001776) </br>
 GAPointNet: Graph Attention Based Point Neural Network for Exploiting Local Feature of Point Cloud </br>
-16.[MLGCN (2023)](https://arxiv.org/abs/2303.17748) </br>
+18.[MLGCN (2023)](https://arxiv.org/abs/2303.17748) </br>
 MLGCN: An Ultra Efficient Graph Convolution Neural Model For 3D Point Cloud Analysis </br>
-17.[GSLCN (TPAMI-2023)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10193837) </br>
+19.[GSLCN (TPAMI-2023)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10193837) </br>
 Long and Short-Range Dependency Graph Structure Learning Framework on Point Cloud </br>
 
-18.[3D-GCN (TPAMI-2021) (IEEE Transactions on Pattern Analysis and Machine Intelligence)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9355025) </br>
+20.[3D-GCN (TPAMI-2021) (IEEE Transactions on Pattern Analysis and Machine Intelligence)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9355025) </br>
 Learning of 3D Graph Convolution Networks for Point Cloud Analysis </br>
 
-19.[KPConv (ICCV-2019)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Thomas_KPConv_Flexible_and_Deformable_Convolution_for_Point_Clouds_ICCV_2019_paper.pdf) </br>
+21.[KPConv (ICCV-2019)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Thomas_KPConv_Flexible_and_Deformable_Convolution_for_Point_Clouds_ICCV_2019_paper.pdf) </br>
 KPConv: Flexible and Deformable Convolution for Point Clouds </br>
-20.[PAConv (CVPR-2021)](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_PAConv_Position_Adaptive_Convolution_With_Dynamic_Kernel_Assembling_on_Point_CVPR_2021_paper.pdf) </br>
+22.[PAConv (CVPR-2021)](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_PAConv_Position_Adaptive_Convolution_With_Dynamic_Kernel_Assembling_on_Point_CVPR_2021_paper.pdf) </br>
 PAConv: Position Adaptive Convolution with Dynamic Kernel Assembling on Point Clouds </br>
-21.[AGConv (TPAMI-2023)](https://arxiv.org/pdf/2206.04665.pdf) </br>
+23.[AGConv (TPAMI-2023)](https://arxiv.org/pdf/2206.04665.pdf) </br>
 AGConv: Adaptive Graph Convolution on 3D Point Clouds [[Code]](https://github.com/hrzhou2/AdaptConv-master) </br>
-22.[SAKS (TCSVT-2023)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10091154) </br>
+24.[SAKS (TCSVT-2023)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10091154) </br>
 SAKS: Sampling Adaptive Kernels from Subspace for Point Cloud Graph Convolution  </br>
 
-23.[PCT (CVM-2021)](https://link.springer.com/content/pdf/10.1007/s41095-021-0229-5.pdf) </br>
+25.[PCT (CVM-2021)](https://link.springer.com/content/pdf/10.1007/s41095-021-0229-5.pdf) </br>
 PCT: Point Cloud Transformer  </br>
-24.[Point Transformer (ICCV-2021)](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Point_Transformer_ICCV_2021_paper.pdf) </br>
+26.[Point Transformer (ICCV-2021)](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Point_Transformer_ICCV_2021_paper.pdf) </br>
 Point Transformer  </br>
-25.[Point Transformer (IEEE Access-2021)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9552005) </br>
+27.[Point Transformer (IEEE Access-2021)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9552005) </br>
 Point Transformer  </br>
-26.[Stratified Transformer (CVPR-2022)](https://openaccess.thecvf.com/content/CVPR2022/papers/Lai_Stratified_Transformer_for_3D_Point_Cloud_Segmentation_CVPR_2022_paper.pdf) </br>
+28.[Stratified Transformer (CVPR-2022)](https://openaccess.thecvf.com/content/CVPR2022/papers/Lai_Stratified_Transformer_for_3D_Point_Cloud_Segmentation_CVPR_2022_paper.pdf) </br>
 Stratified Transformer for 3D Point Cloud Segmentation </br>
-27.[AGNet (Remote Sensing-2022)](https://www.mdpi.com/2072-4292/14/4/1036) </br>
+29.[AGNet (Remote Sensing-2022)](https://www.mdpi.com/2072-4292/14/4/1036) </br>
 AGNet: An Attention-Based Graph Network for Point Cloud Classification and Segmentation  </br>
-28.[3DCTN (TITS-2022) (IEEE Transactions on Intelligent Transportation Systems)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9861747) </br>
+30.[3DCTN (TITS-2022) (IEEE Transactions on Intelligent Transportation Systems)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9861747) </br>
 3DCTN: 3D Convolution-Transformer Network for Point Cloud Classification  [[Code]](https://github.com/d62lu/3DCTN) </br>
-29.[SPoTr (CVPR-2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Park_Self-Positioning_Point-Based_Transformer_for_Point_Cloud_Understanding_CVPR_2023_paper.pdf) </br>
+31.[SPoTr (CVPR-2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Park_Self-Positioning_Point-Based_Transformer_for_Point_Cloud_Understanding_CVPR_2023_paper.pdf) </br>
 Self-positioning Point-based Transformer for Point Cloud Understanding </br>
-30.[GTNet (2023)](https://arxiv.org/pdf/2305.15213) </br>
+32.[GTNet (2023)](https://arxiv.org/pdf/2305.15213) </br>
 GTNet: Graph Transformer Network for 3D Point Cloud Classification and Semantic Segmentation </br>
-31.[AF-GCN (CVPR-2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Improving_Graph_Representation_for_Point_Cloud_Segmentation_via_Attentive_Filtering_CVPR_2023_paper.pdf) </br>
+33.[AF-GCN (CVPR-2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Improving_Graph_Representation_for_Point_Cloud_Segmentation_via_Attentive_Filtering_CVPR_2023_paper.pdf) </br>
 Improving Graph Representation for Point Cloud Segmentation via Attentive Filtering </br>
-32.[PointCT (WACV-2024)](https://openaccess.thecvf.com/content/WACV2024/papers/Tran_PointCT_Point_Central_Transformer_Network_for_Weakly-Supervised_Point_Cloud_Semantic_WACV_2024_paper.pdf) </br>
+34.[PointCT (WACV-2024)](https://openaccess.thecvf.com/content/WACV2024/papers/Tran_PointCT_Point_Central_Transformer_Network_for_Weakly-Supervised_Point_Cloud_Semantic_WACV_2024_paper.pdf) </br>
 PointCT: Point Central Transformer Network for Weakly-supervised Point Cloud Semantic Segmentation  </br>
-33.[3DGTN (TGRS-2024) (IEEE Transactions on Geoscience and Remote Sensing)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10508408) </br>
+35.[3DGTN (TGRS-2024) (IEEE Transactions on Geoscience and Remote Sensing)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10508408) </br>
 3DGTN: 3-D Dual-Attention GLocal Transformer Network for Point Cloud Classification and Segmentation [[Code]](https://github.com/d62lu/3DGTN) </br>
 
-34.[CP-Net (CVPR-2020)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Nezhadarya_Adaptive_Hierarchical_Down-Sampling_for_Point_Cloud_Classification_CVPR_2020_paper.pdf) </br>
+36.[CP-Net (CVPR-2020)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Nezhadarya_Adaptive_Hierarchical_Down-Sampling_for_Point_Cloud_Classification_CVPR_2020_paper.pdf) </br>
 Adaptive Hierarchical Down-Sampling for Point Cloud Classification </br>
-35.[(ICCV-2021)](https://openaccess.thecvf.com/content/ICCV2021W/DLGC/papers/Tailor_Towards_Efficient_Point_Cloud_Graph_Neural_Networks_Through_Architectural_Simplification_ICCVW_2021_paper.pdf) </br>
+37.[GBNet (TMM-2021) (IEEE Transactions on Multimedia)](https://ieeexplore.ieee.org/abstract/document/9410405) </br>
+Geometric Back-projection Network for Point Cloud Classification [[Code]](https://github.com/ShiQiu0419/GBNet) </br>
+38.[(ICCV-2021)](https://openaccess.thecvf.com/content/ICCV2021W/DLGC/papers/Tailor_Towards_Efficient_Point_Cloud_Graph_Neural_Networks_Through_Architectural_Simplification_ICCVW_2021_paper.pdf) </br>
 Towards Efficient Point Cloud Graph Neural Networks Through Architectural Simplification  </br>
-36.[BubblEX (JSTARS-2022) (IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing)](https://ieeexplore.ieee.org/abstract/document/9846966) </br>
+39.[BubblEX (JSTARS-2022) (IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing)](https://ieeexplore.ieee.org/abstract/document/9846966) </br>
 BubblEX: An Explainable Deep Learning Framework for Point-Cloud Classification [[Code]](https://github.com/vrai-group/BubblEX) </br>
 
-37.[A Survey (TPAMI-2020)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10508408) </br>
+40.[A Survey (TPAMI-2020)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10508408) </br>
 Deep Learning for 3D Point Clouds: A Survey </br>
-38.[A Systematic Survey and Outlook (Displays-2023)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10508408) </br>
+41.[A Systematic Survey and Outlook (Displays-2023)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10508408) </br>
 Deep Learning-based 3D Point Cloud Classification: A Systematic Survey and Outlook </br>
