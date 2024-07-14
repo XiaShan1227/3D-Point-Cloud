@@ -79,19 +79,21 @@ Improving Graph Representation for Point Cloud Segmentation via Attentive Filter
 PointCT: Point Central Transformer Network for Weakly-supervised Point Cloud Semantic Segmentation  </br>
 36.[3DGTN (TGRS-2024) (IEEE Transactions on Geoscience and Remote Sensing)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10508408) </br>
 3DGTN: 3-D Dual-Attention GLocal Transformer Network for Point Cloud Classification and Segmentation [[Code]](https://github.com/d62lu/3DGTN) </br>
+37.[PointNAT (TGRS-2024)](https://ieeexplore.ieee.org/abstract/document/10543016) </br>
+PointNAT: Large-Scale Point Cloud Semantic Segmentation via Neighbor Aggregation With Transformer [[Code]](https://github.com/zeng-ziyin/PointNAT) </br>
 
-37.[CP-Net (CVPR-2020)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Nezhadarya_Adaptive_Hierarchical_Down-Sampling_for_Point_Cloud_Classification_CVPR_2020_paper.pdf) </br>
+38.[CP-Net (CVPR-2020)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Nezhadarya_Adaptive_Hierarchical_Down-Sampling_for_Point_Cloud_Classification_CVPR_2020_paper.pdf) </br>
 Adaptive Hierarchical Down-Sampling for Point Cloud Classification </br>
-38.[GBNet (TMM-2021) (IEEE Transactions on Multimedia)](https://ieeexplore.ieee.org/abstract/document/9410405) </br>
+39.[GBNet (TMM-2021) (IEEE Transactions on Multimedia)](https://ieeexplore.ieee.org/abstract/document/9410405) </br>
 Geometric Back-projection Network for Point Cloud Classification [[Code]](https://github.com/ShiQiu0419/GBNet) </br>
-39.[(ICCV-2021)](https://openaccess.thecvf.com/content/ICCV2021W/DLGC/papers/Tailor_Towards_Efficient_Point_Cloud_Graph_Neural_Networks_Through_Architectural_Simplification_ICCVW_2021_paper.pdf) </br>
+40.[(ICCV-2021)](https://openaccess.thecvf.com/content/ICCV2021W/DLGC/papers/Tailor_Towards_Efficient_Point_Cloud_Graph_Neural_Networks_Through_Architectural_Simplification_ICCVW_2021_paper.pdf) </br>
 Towards Efficient Point Cloud Graph Neural Networks Through Architectural Simplification  </br>
-40.[BubblEX (JSTARS-2022) (IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing)](https://ieeexplore.ieee.org/abstract/document/9846966) </br>
+41.[BubblEX (JSTARS-2022) (IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing)](https://ieeexplore.ieee.org/abstract/document/9846966) </br>
 BubblEX: An Explainable Deep Learning Framework for Point-Cloud Classification [[Code]](https://github.com/vrai-group/BubblEX) </br>
-41.[GrowSP (CVPR-2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_GrowSP_Unsupervised_Semantic_Segmentation_of_3D_Point_Clouds_CVPR_2023_paper.pdf) </br>
+42.[GrowSP (CVPR-2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_GrowSP_Unsupervised_Semantic_Segmentation_of_3D_Point_Clouds_CVPR_2023_paper.pdf) </br>
 GrowSP: Unsupervised Semantic Segmentation of 3D Point Clouds [[Code]](https://github.com/vLAR-group/GrowSP) </br>
 
-42.[A Survey (TPAMI-2020)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10508408) </br>
+43.[A Survey (TPAMI-2020)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10508408) </br>
 Deep Learning for 3D Point Clouds: A Survey </br>
-43.[A Systematic Survey and Outlook (Displays-2023)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10508408) </br>
+44.[A Systematic Survey and Outlook (Displays-2023)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10508408) </br>
 Deep Learning-based 3D Point Cloud Classification: A Systematic Survey and Outlook </br>
